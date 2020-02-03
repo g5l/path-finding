@@ -17,3 +17,4 @@ Your initial position is `0x0`, the `9` position is `2x3`.
 
 - [PathFinding.js](https://qiao.github.io/PathFinding.js)
 - [Lee Algorithm](https://stackoverflow.com/a/2311784/6743610)
+- [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)

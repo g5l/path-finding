@@ -1,5 +1,8 @@
 # Path Finding
 
+## See the robot walking
+Open the `index.html` file in browser and check the javascript console
+
 ## Problem
 Given the following 2d matrix (this is a sample input, you should consider alternative inputs):
 ```
@@ -16,5 +19,5 @@ Your initial position is `0x0`, the `9` position is `2x3`.
 ## Possible Solutions
 
 - [PathFinding.js](https://qiao.github.io/PathFinding.js)
-- [Lee Algorithm](https://stackoverflow.com/a/2311784/6743610)
+- [stackoverflow](https://stackoverflow.com/a/2311784/6743610)
 - [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
